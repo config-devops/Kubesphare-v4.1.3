@@ -2,7 +2,7 @@
 set -e
 
 # Variabel
-BASE_URL="https://github.com/andiabdur/asset/releases/download/4.1.3"   # nanti bisa kamu ganti ke GitHub Releases / MinIO
+BASE_URL="https://github.com/config-devops/Kubesphare-v4.1.3/releases/download/4.1.3"   # nanti bisa kamu ganti ke GitHub Releases / MinIO
 VERSION="v4.1.3"
 WORKDIR="/tmp/kubesphere-installer"
 HELM_TGZ="ks-core-1.1.4.tgz"
