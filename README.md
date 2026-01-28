@@ -18,6 +18,6 @@
 
 ```bash
 
-curl -sSL https://raw.githubusercontent.com/andiabdur/asset/refs/heads/main/install-kubesphere.sh | bash
+curl -sSL https://raw.githubusercontent.com/config-devops/Kubesphare-v4.1.3/refs/heads/main/install-kubesphere.sh | bash
 
 ```
