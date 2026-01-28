@@ -3,12 +3,12 @@
 ---
 # 📦 Dependency Requirements
 
-KubeKey dapat menginstal **Kubernetes** dan **KubeSphere** secara bersamaan.  
-Beberapa dependency harus sudah terpasang sebelum instalasi Kubernetes versi ≥ **1.18**.  
+KubeKey dapat menginstal **Kubernetes** cluster dengan mudah.  
+Beberapa dependency harus sudah terpasang sebelum instalasi Kubernetes versi ≥ **1.33.1**.  
 
 Silakan cek tabel berikut untuk memastikan dependensi sudah ada di node kamu:  
 
-| Dependency | Kubernetes Version ≥ 1.18 |
+| Dependency | Kubernetes Version ≥ 1.33.1 |
 |------------|----------------------------|
 | `socat`    | Required                   |
 | `conntrack`| Required                   |
@@ -37,7 +37,7 @@ chmod +x install-kubekey.sh
 
  **KubeSphere**   
 
- Setelah Melakukakn Installasi Kubernetes Pada Sisi Server Disini Kalian Bisa Melanjutkan 
+ Setelah Melakukakn Installasi Kubernetes Pada Sisi Server Disini Kamu Bisa Melanjutkan 
  pada tahap installasi Kubesphere agar bisa akses menggunakan Dashboard Kubesphere
 
 ---
@@ -47,7 +47,7 @@ chmod +x install-kubekey.sh
   - Password **P@88w0rd**
 ---
 
-# ▶️ Install Kubesphare 
+# ▶️ Install Kubesphere 
 
 ```bash
 
