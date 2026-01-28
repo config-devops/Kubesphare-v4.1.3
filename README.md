@@ -10,8 +10,8 @@
 ---
   Dan Berikut adalah PassWord Default Kubespharenya
 
-  Username: admin
-  Password **P@88w0rd**
+  - Username: admin
+  - Password **P@88w0rd**
 
 # ▶️ Install Kubesphare 
 
