@@ -12,6 +12,7 @@
 
   - Username: admin
   - Password **P@88w0rd**
+---
 
 # ▶️ Install Kubesphare 
 
